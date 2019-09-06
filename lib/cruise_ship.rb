@@ -18,5 +18,3 @@ end
 winner
 end
 
-def age_appropriate_birthday
-end 
