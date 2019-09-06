@@ -17,3 +17,5 @@ end
  
 winner
 end
+
+def 
